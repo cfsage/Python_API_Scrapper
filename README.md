@@ -27,7 +27,7 @@ A simple Python automation script that fetches job postings from the **RemoteOK 
 
 ```bash
 git clone 
-cd 
+cd api_scrapper
 pip install -r requirements.txt
 ```
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## ▶️ Usage
 
 ```bash
-python 
+python remoteok_scrapper.py
 ```
 
 The script will:
@@ -81,3 +81,4 @@ send_email(...)
 ```
 
 ---
+
